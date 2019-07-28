@@ -1,0 +1,34 @@
+{
+  "name": "draggable-modal-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for Imperavi Redactor WYSIWYG. Allow users drag modal windows",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^1.4.0",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "gulp-babel": "^8.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zetamen/draggable-modal-plugin.git"
+  },
+  "keywords": [
+    "redactor",
+    "wysiwyg",
+    "draggable",
+    "modal"
+  ],
+  "author": "zetamen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zetamen/draggable-modal-plugin/issues"
+  },
+  "homepage": "https://github.com/zetamen/draggable-modal-plugin#readme"
+}
