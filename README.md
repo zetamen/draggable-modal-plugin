@@ -1,4 +1,4 @@
-# Redactor draggable modal
+# Draggable modal plugin
 
 Plugin for Imperavi Redactor WYSIWYG. Allow users drag modal windows
 
